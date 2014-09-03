@@ -7,4 +7,5 @@ int main(void)
 {
   pc = 6;
   printf("Hello this is %i", pc);
+  return;
 }
