@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int pc;
 int ir;
 
